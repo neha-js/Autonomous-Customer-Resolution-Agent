@@ -1,6 +1,6 @@
 # Autonomous Customer Resolution Agent
 
-Track 3 / Problem Statement 5. This agent **resolves** tickets end to end
+This agent **resolves** tickets end to end
 against simulated enterprise systems — it doesn't just classify or draft a
 reply. It inspects evidence, picks an action, executes a state change,
 verifies it landed, and replans if something blocks it.
